@@ -1,0 +1,16 @@
+{
+  "train_shape": [
+    800,
+    4
+  ],
+  "test_shape": [
+    200,
+    4
+  ],
+  "loss_epochs_recorded": 14,
+  "outputs": {
+    "loss_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\ablation_tensor_loss_curve.csv",
+    "metrics_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\ablation_tensor_metrics.csv",
+    "metrics_json": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\ablation_tensor_metrics.json"
+  }
+}

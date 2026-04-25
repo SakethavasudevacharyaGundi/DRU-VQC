@@ -1,0 +1,21 @@
+{
+  "train": {
+    "accuracy": 0.99625,
+    "f1": 0.9971777986829727,
+    "precision": 1.0,
+    "recall": 0.9943714821763602
+  },
+  "test": {
+    "accuracy": 0.985,
+    "f1": 0.9887640449438202,
+    "precision": 0.9924812030075187,
+    "recall": 0.9850746268656716
+  },
+  "kernel_info": {
+    "train_seconds": 410.9044758000018,
+    "test_seconds": 195.22072350000235,
+    "cached": false
+  },
+  "train_samples": 800,
+  "test_samples": 200
+}

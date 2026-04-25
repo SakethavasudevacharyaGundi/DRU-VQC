@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "wires": 4,
+  "embedding": "IQPEmbedding",
+  "train_digest": "e2bfa5a2bf0f5b37809aefef78937630fbdabd8b5ea89a20b8351f5040be476a",
+  "test_digest": "7383526fe51164afd48ccc73afbcaee4dcbfe2c83235602679b9087c4385bde0",
+  "train_shape": [
+    800,
+    4
+  ],
+  "test_shape": [
+    200,
+    4
+  ],
+  "train_kernel_cache": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_train_kernel.npy",
+  "test_kernel_cache": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_test_kernel.npy",
+  "train_kernel_seconds": 410.9044758000018,
+  "test_kernel_seconds": 195.22072350000235
+}

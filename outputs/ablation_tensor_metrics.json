@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "epochs_max": 50,
+  "learning_rate": 0.03,
+  "batch_size": 32,
+  "diff_method": "parameter-shift",
+  "readout": "expval(Z0 @ Z1 @ Z2 @ Z3)",
+  "train_metrics": {
+    "accuracy": 0.66375,
+    "f1": 0.7565610859728507,
+    "precision": 0.7307692307692307,
+    "recall": 0.7842401500938087
+  },
+  "test_metrics": {
+    "accuracy": 0.675,
+    "f1": 0.7781569965870307,
+    "precision": 0.7169811320754716,
+    "recall": 0.8507462686567164
+  },
+  "best_theta": [
+    -0.025091976190095223,
+    1.6722957836101076,
+    0.04639878840160885,
+    1.1220286476958976
+  ],
+  "loss_curve_file": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\ablation_tensor_loss_curve.csv",
+  "metrics_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\ablation_tensor_metrics.csv"
+}
