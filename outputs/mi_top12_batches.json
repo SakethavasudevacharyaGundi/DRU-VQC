@@ -1,0 +1,74 @@
+[
+  {
+    "feature": "IAT",
+    "mi_score": 0.6374280444393964,
+    "rank": 1,
+    "batch": "batch_1"
+  },
+  {
+    "feature": "Number",
+    "mi_score": 0.6374280444393964,
+    "rank": 2,
+    "batch": "batch_1"
+  },
+  {
+    "feature": "Weight",
+    "mi_score": 0.6374280444393964,
+    "rank": 3,
+    "batch": "batch_1"
+  },
+  {
+    "feature": "rst_count",
+    "mi_score": 0.5950182229433562,
+    "rank": 4,
+    "batch": "batch_1"
+  },
+  {
+    "feature": "urg_count",
+    "mi_score": 0.586205651576547,
+    "rank": 5,
+    "batch": "batch_2"
+  },
+  {
+    "feature": "Variance",
+    "mi_score": 0.5300202410648005,
+    "rank": 6,
+    "batch": "batch_2"
+  },
+  {
+    "feature": "Tot size",
+    "mi_score": 0.5270621016018278,
+    "rank": 7,
+    "batch": "batch_2"
+  },
+  {
+    "feature": "Max",
+    "mi_score": 0.5196686769760899,
+    "rank": 8,
+    "batch": "batch_2"
+  },
+  {
+    "feature": "AVG",
+    "mi_score": 0.5048586992829143,
+    "rank": 9,
+    "batch": "batch_3"
+  },
+  {
+    "feature": "Magnitue",
+    "mi_score": 0.49293951309986617,
+    "rank": 10,
+    "batch": "batch_3"
+  },
+  {
+    "feature": "flow_duration",
+    "mi_score": 0.46928311378272736,
+    "rank": 11,
+    "batch": "batch_3"
+  },
+  {
+    "feature": "Tot sum",
+    "mi_score": 0.4667312954308318,
+    "rank": 12,
+    "batch": "batch_3"
+  }
+]

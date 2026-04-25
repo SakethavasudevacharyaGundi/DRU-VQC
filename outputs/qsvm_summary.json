@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "wires": 4,
+  "embedding": "IQPEmbedding",
+  "train_shape": [
+    800,
+    4
+  ],
+  "test_shape": [
+    200,
+    4
+  ],
+  "cached": false,
+  "kernel_cache_train": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_train_kernel.npy",
+  "kernel_cache_test": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_test_kernel.npy",
+  "metrics_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_metrics.csv",
+  "metrics_json": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_metrics.json",
+  "learning_curve_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\qsvm_learning_curve.csv",
+  "test_metrics": {
+    "accuracy": 0.985,
+    "f1": 0.9887640449438202,
+    "precision": 0.9924812030075187,
+    "recall": 0.9850746268656716
+  },
+  "train_metrics": {
+    "accuracy": 0.99625,
+    "f1": 0.9971777986829727,
+    "precision": 1.0,
+    "recall": 0.9943714821763602
+  },
+  "train_subset_indices_count": 800
+}

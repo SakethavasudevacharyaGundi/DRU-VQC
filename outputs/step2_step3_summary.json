@@ -1,0 +1,92 @@
+{
+  "seed": 42,
+  "rows_scanned_fast_path": 100000,
+  "collected_counts": {
+    "benign": 500,
+    "ddos": 500,
+    "mirai": 500
+  },
+  "step2_merged_shape": [
+    1500,
+    49
+  ],
+  "step2_clean_shape": [
+    1500,
+    48
+  ],
+  "step2_dropped_columns_count": 0,
+  "step2_numeric_feature_count": 46,
+  "step2_binary_distribution": {
+    "1": 1000,
+    "0": 500
+  },
+  "step3_sampled_shape": [
+    1000,
+    48
+  ],
+  "step3_sampled_class_counts": {
+    "mirai": 334,
+    "benign": 333,
+    "ddos": 333
+  },
+  "step3_train_shape": [
+    800,
+    48
+  ],
+  "step3_test_shape": [
+    200,
+    48
+  ],
+  "step3_train_class_counts": {
+    "benign": 267,
+    "mirai": 267,
+    "ddos": 266
+  },
+  "step3_test_class_counts": {
+    "ddos": 67,
+    "mirai": 67,
+    "benign": 66
+  },
+  "step3_train_binary_counts": {
+    "1": 533,
+    "0": 267
+  },
+  "step3_test_binary_counts": {
+    "1": 134,
+    "0": 66
+  },
+  "step3_test_index_count": 200,
+  "step3_test_index_preview_30": [
+    654,
+    203,
+    583,
+    801,
+    623,
+    841,
+    674,
+    2,
+    308,
+    196,
+    455,
+    589,
+    384,
+    363,
+    855,
+    446,
+    419,
+    51,
+    570,
+    945,
+    239,
+    174,
+    450,
+    24,
+    485,
+    963,
+    56,
+    47,
+    845,
+    815
+  ],
+  "output_dir": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs"
+}

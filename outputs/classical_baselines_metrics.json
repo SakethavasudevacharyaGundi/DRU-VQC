@@ -1,0 +1,82 @@
+{
+  "SVC_RBF": {
+    "train": {
+      "accuracy": 0.99875,
+      "f1": 0.9990610328638497,
+      "precision": 1.0,
+      "recall": 0.99812382739212,
+      "confusion_matrix": [
+        [
+          267,
+          0
+        ],
+        [
+          1,
+          532
+        ]
+      ]
+    },
+    "test": {
+      "accuracy": 0.995,
+      "f1": 0.9962546816479401,
+      "precision": 1.0,
+      "recall": 0.9925373134328358,
+      "confusion_matrix": [
+        [
+          66,
+          0
+        ],
+        [
+          1,
+          133
+        ]
+      ]
+    },
+    "gaps": {
+      "accuracy_gap": 0.003750000000000031,
+      "f1_gap": 0.0028063512159096637,
+      "precision_gap": 0.0,
+      "recall_gap": 0.005586513959284223
+    }
+  },
+  "Random_Forest": {
+    "train": {
+      "accuracy": 1.0,
+      "f1": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "confusion_matrix": [
+        [
+          267,
+          0
+        ],
+        [
+          0,
+          533
+        ]
+      ]
+    },
+    "test": {
+      "accuracy": 0.995,
+      "f1": 0.9962546816479401,
+      "precision": 1.0,
+      "recall": 0.9925373134328358,
+      "confusion_matrix": [
+        [
+          66,
+          0
+        ],
+        [
+          1,
+          133
+        ]
+      ]
+    },
+    "gaps": {
+      "accuracy_gap": 0.0050000000000000044,
+      "f1_gap": 0.0037453183520599342,
+      "precision_gap": 0.0,
+      "recall_gap": 0.007462686567164201
+    }
+  }
+}

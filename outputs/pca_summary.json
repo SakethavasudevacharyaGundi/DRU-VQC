@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "train_shape": [
+    800,
+    46
+  ],
+  "test_shape": [
+    200,
+    46
+  ],
+  "pca_train_shape": [
+    800,
+    4
+  ],
+  "pca_test_shape": [
+    200,
+    4
+  ],
+  "explained_variance_ratio": [
+    0.24223059017160908,
+    0.1307899873368074,
+    0.09658889023437753,
+    0.08879541857338778
+  ],
+  "explained_variance_sum": 0.5584048863161818,
+  "feature_count_used": 46,
+  "train_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\pca_train_4d.csv",
+  "test_csv": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\pca_test_4d.csv",
+  "train_npy": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\pca_train_4d.npy",
+  "test_npy": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\pca_test_4d.npy",
+  "model_path": "c:\\Users\\saket\\OneDrive\\Documents\\Quantum\\outputs\\pca_scaler_and_model.pkl"
+}
